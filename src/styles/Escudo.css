@@ -1,0 +1,15 @@
+.escudo {
+  height: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 90px 0 70px;
+}
+
+.imgEscudo {
+  height: 17rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

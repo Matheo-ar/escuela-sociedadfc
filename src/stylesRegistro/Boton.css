@@ -1,0 +1,13 @@
+.registrarme {
+  background: #F5403D;
+  color: white;
+  font-size: 1em;
+  padding: 0.25em 1em;
+  border: 2px solid rgb(223, 221, 221);
+  border-radius: 5px;
+  cursor: pointer; 
+}
+
+.registrarme:hover {
+  background-color: #380191;
+}

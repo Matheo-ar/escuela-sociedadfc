@@ -1,0 +1,23 @@
+.contenido {
+  color: black;
+}
+
+.nosotros {
+  margin: 0;
+  position: relative;
+  padding-bottom: 3em;
+  min-height: 78vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor {
+  margin: 40px;
+  padding: 5px 15px 30px 15px;
+  border: solid 1px #8887FA;
+  width: 50%;
+  border-radius: 10px;
+  background-color: #E7F0F2;
+  box-shadow: 1px 2px 4px rgb(0, 0, 0, 0.4);
+}

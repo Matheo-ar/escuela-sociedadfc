@@ -1,0 +1,28 @@
+.direccion {
+  color: black;
+}
+
+.sedes{
+  margin: 0;
+  position: relative;
+  padding-bottom: 3em;
+  min-height: 78vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sede {
+  margin: 40px;
+  padding: 5px 15px 30px 25px;
+  border: solid 1px #FA7386;
+  box-shadow: 2px 2px 4px rgb(0, 0, 0, 0.4);
+  width: 30%;
+  border-radius: 10px;
+  background-color: #E7F0F2;
+}
+
+.sede h1 {
+  display: flex;
+  justify-content: center;
+}

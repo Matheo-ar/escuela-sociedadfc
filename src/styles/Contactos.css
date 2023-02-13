@@ -1,0 +1,32 @@
+.contactos {
+  margin: 0;
+  position: relative;
+  padding-bottom: 3em;
+  min-height: 78vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contacto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  padding: 20px 20px;
+  margin: 80px;
+  border: solid 1px #6CA7EB;
+  border-radius: 7px;
+  box-shadow: 2px 2px 4px rgb(0, 0, 0, 0.4);
+}
+
+.imagen {
+  height: 3rem;
+  width: 4rem;
+}
+
+.url {
+  color: black;
+  margin-left: 50px;
+}
